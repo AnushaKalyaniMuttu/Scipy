@@ -1,0 +1,7 @@
+from scipy import constants
+
+print(constants.liter)
+
+
+
+o/p   0.001
